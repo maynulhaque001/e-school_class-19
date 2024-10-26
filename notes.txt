@@ -1,0 +1,15 @@
+Font Family-------------------
+font-family: "Poppins", sans-serif;
+pop - 400, 700, 500
+
+font-family: "Roboto", sans-serif;
+robo - 400
+
+Color---------------
+black- #000000
+white- #FFFFFF
+green- #21B573
+orange- #FD511A
+new- #413960
+
+
